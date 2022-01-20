@@ -1,0 +1,10 @@
+<h1 style='color:blue'>Hello Golang</h1>
+<h2>how are you</h2>
+<h3>niHao</h3>
+<img id = 'i1' src = 'https://www.wahaotu.com/uploads/allimg/201904/1555074510295049.jpg'>
+<button id = 'b1'>点我</button>
+<script>
+document.getElementById('b1').onclick=function(){
+    document.getElementById('b1').src = 'https://c-ssl.duitang.com/uploads/blog/202009/17/20200917105335_KT5Cm.thumb.1000_0.jpeg'
+}
+</script>
